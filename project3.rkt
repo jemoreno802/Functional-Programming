@@ -220,8 +220,3 @@ type (displayRequiredFunctions) to see required functions")
   (displayln "1. Check if a number is perfect - (perfect? #)")
   (displayln "2. Check if a number is abundant - (abundant? #)")
   (displayln "3. Check if a number is deficient - (deficient? #)"))
-
-
-;(displayln "1. Check if a number is perfect - (perfect? #)
-; |   Check if a number is abundant - (abundant? #)
- ; |   Check if a number is deficient - (deficient? #)")
